@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/6426cfb2-925a-4aa7-82b9-955f3ad6d9ab/AppServices/subscriptions/6426cfb2-925a-4aa7-82b9-955f3ad6d9ab/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/app-kaotatest222",
-    "appService.deploySubpath": "."
-}
